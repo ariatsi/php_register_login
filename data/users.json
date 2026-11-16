@@ -1,0 +1,16 @@
+[
+    {
+        "email": "exemple@test.fr",
+        "name": "Alex",
+        "surname": "Martin",
+        "password": "hachage_ici",
+        "role": "User"
+    },
+    {
+        "email": "email1@example.com",
+        "password": "$2y$10$XgfSk617tu41FbvJNGpK0eesYBUbZBm3PpWFPaPq6aVuBNvyC4dBy",
+        "name": "Prénom1",
+        "surname": "Nom1",
+        "role": "User"
+    }
+]
